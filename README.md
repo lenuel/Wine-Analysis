@@ -9,14 +9,17 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  I use Python version 3.6 to create this notebook with the following libraries Pandas, NumPy, Matplotlib, Scikit-Learn.
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  I use Python version 3.6 to create this notebook with the following libraries Pandas, NumPy, Matplotlib, Scikit-Learn. Additionally I use Wordcloud library to create picture with most common wine description. 
+
+To install this package with conda run:
+conda install -c conda-forge wordcloud 
 
 ## Project Motivation<a name="motivation"></a>
 
 For this project, I was interestested in using Wine Review data collected in 2017 to better understand:
 
-1. What countries are major producers of the wine and what sorts of wine do have highest rating in those countries?
-2. What are best rated wines in the different price category?
+1. What countries are major producers of the wine and what sorts of wine do have the highest rating in those countries?
+2. What are the best rated wines in the different price category?
 3. What is the most common description for the best rated wines produced in different countries?
 4. How well the price of wine can be predicted?
 
@@ -34,5 +37,5 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Thank @zackthoutt from Kaggle for scrapping the data from WineEnthusiast in November 2017. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/zynicide/wine-reviews).  Otherwise, feel free to use the code here as you would like! 
+Thanks @zackthoutt from Kaggle for scrapping the data from WineEnthusiast in November 2017. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/zynicide/wine-reviews).  Otherwise, feel free to use the code here as you would like! 
 
