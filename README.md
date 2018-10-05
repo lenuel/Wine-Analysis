@@ -33,7 +33,7 @@ For this project, I was interestested in using Wine Review data collected in 201
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/...).
+The main findings of the code can be found at the post available [here](https://medium.com/@elenaivanova_65377/waiting-for-weekends-some-insights-on-how-to-select-the-best-wine-a752523ac7b7).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
